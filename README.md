@@ -1,4 +1,4 @@
-# Build a Pizza Restaurant Application (Front-End)
+# Pizza Restaurant Application (Front-End)
 
 Using:
 
